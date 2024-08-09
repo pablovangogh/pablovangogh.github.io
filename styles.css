@@ -1,5 +1,14 @@
+h1 {
+	background-color: black;
+	color: darkviolet;
+}
+
 body {
-	background-color: purple;
-	text-color: black;
-	text-bg: red;
+	background-image:url("bg/1.png");
+	color: pink;
+	font: bold 70px helvetica;
+}
+
+h4 {
+	background-color: black;
 }
